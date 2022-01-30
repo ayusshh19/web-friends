@@ -17,13 +17,13 @@
     margin:15px 20px;
 }
 .listitems ul li a{
-    border-top: 1px solid #55efc4;
+    border-top: 1px solid #0d0e0e;
     text-decoration: none;
     font-size: 25px;
     color: black;
 }
 .listitems ul li a:hover{
-    border-top: 4px solid #55efc4;
+    border-top: 4px solid #7c7979;
     box-shadow:8px #b2bec3;
 }
 .navbar1{
@@ -55,7 +55,7 @@
     width: 100%;
 }
 .fullnav{
-    background-image: radial-gradient(circle, #fffafb, #ffd8df, #ffb5c1, #ff91a0, #fc6b7e);
+    background-color: #ffffb3;
 }
 .gradient-custom {
     /* fallback for old browsers */
